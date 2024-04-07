@@ -1,2 +1,2 @@
 # FanCV
- Самонавідний вентилятор
+ Self-directing fan
